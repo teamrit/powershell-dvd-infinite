@@ -1,9 +1,15 @@
 # Powershell DVD Infinite
 
-📀 Powershell script to mimic the dvd logo infinite loop
+📀 Powershell script to mimic the dvd logo infinite loop by moving cursor in a similar fashion
 <br>
 
-- This can be used as a "screen-saver".
+- To run the script, simply run this command from a powershell at the root directory of a cloned repository
+
+  ```ps1
+  .\runner.ps1
+  ```
+
+* This can also be used as a "screen-saver".
 
 ### Inspiration
 
