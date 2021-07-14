@@ -4,10 +4,10 @@ $DeviceWidth = [System.Windows.Forms.Screen]::PrimaryScreen.Bounds.Width;
 $DeviceHeight = [System.Windows.Forms.Screen]::PrimaryScreen.Bounds.Height;
 
 # start from 0, 0 
-[System.Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point(1070, 1070)
+[System.Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point(0, 0)
 
 $directionX = $true
-$directionY = $false
+$directionY = $true
 
 while ($true) {
 
